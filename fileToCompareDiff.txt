@@ -3,3 +3,9 @@ This message is for remore repo
 
 ## This if for local Repo
 This message is for local repo
+
+## This is for Staging area
+This message is for staging area
+
+## This is for working dir
+This message is for working dir
