@@ -1,2 +1,3 @@
 fileToIgnore.txt
 -mutliInst
+*.orig
