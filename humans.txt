@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    My name is John!
 
 # TECHNOLOGY COLOPHON
 
